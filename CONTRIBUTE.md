@@ -13,7 +13,7 @@ To make contributions, make sure you have [git](https://git-scm.com/) installed 
 Once you've forked the project, you may be able to access it by using your own github account. After doing this, you should clone the repository on your machine.
 
 ```bash
-$git clone https://github.com/<YOUR_ACCOUNT_NAME>/<REPOSITORY_NAME>.git
+$ git clone https://github.com/<YOUR_ACCOUNT_NAME>/<REPOSITORY_NAME>.git
 ```
 
 ### Optional: Link fork to the official repository
@@ -21,7 +21,7 @@ $git clone https://github.com/<YOUR_ACCOUNT_NAME>/<REPOSITORY_NAME>.git
 This will be used to sync updates made in the official repository to your local environment. You might also update your forked repository manually on GitHub and then fetch it through git, making this step optional.
 
 ```bash
-$git remote add upstream https://github.com/BlockLabz/<REPOSITORY_NAME>.git
+$ git remote add upstream https://github.com/BlockLabz/<REPOSITORY_NAME>.git
 ```
 
 This will serve to sync updates made in the official repository to your local environment.
@@ -31,7 +31,7 @@ This will serve to sync updates made in the official repository to your local en
 To check if everything went right, run the command below in the terminal:
 
 ```bash
-$git remote --v
+$ git remote --v
 ```
 
 If everything went well, there should be an output similar to this:
@@ -48,13 +48,13 @@ upstream        https://github.com/BlockLabz/<REPOSITORY_NAME>.git (push)
 Create a **branch** to make your contribution:
 
 ```bash
-$git checkout -b feature/feature_name
+$ git checkout -b feature/feature_name
 ```
 
 After completing your contribution, send it to the remote repository in your account:
 
 ```bash
-$git push origin feature/feature_name
+$ git push origin feature/feature_name
 ```
 
 ### Make a pull request
