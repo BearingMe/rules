@@ -1,16 +1,22 @@
-# Contributing to Projects
+# Welcome to BlockLabz! 🚀
 
-Welcome to BlockLabz Rules! This repository contains guidelines for contributing to our projects, so that everyone can participate in making our code better. Whether you're new to open-source development or a seasoned veteran, we hope that this guide will be helpful in getting you started.
+This is our rules section, where we keep guides on how to contribute to our project 🧐
 
-To contribute to our projects, read the [Contribution Guidelines][contributors_guide] and [Code of Conduct][code_of_conduct]. These documents outline the standards we expect from our contributors and provide helpful tips on how to make the most of your contributions. You may want to check our [Commit Style Guide][conventional_commits] that you can use to ensure your code matches the rest of the project.
+## Getting Started
+- 📖 If you are new to the open source world, please read our [Contribution Guidelines][contributors_guide]. This document is going to teach you how to make your first pull request.  
+- 💻 Want to write some code? Ensure your commit matches the rest of the project. Follow our [Commit Style Guide][conventional_commits].
+- 📈 You can also take a look at how we version our releases. It's not mandatory, but it's always nice to learn something new. Check the [Semantic Versioning][semantic_versioning] guide.
+- 🎖️ Are you already a veteran? Then take a look at our [Code of Conduct][code_of_conduct] to stay on top of our responsibilities.
+- 💡 Any good idea? Send it to us, so that everyone can participate in making our code better. 
 
-We also follow [Semantic Versioning][semantic_versioning], which means that we use version numbers to communicate the level of change in each release. This helps users understand whether a new version will be compatible with their existing code, and helps us ensure that we're releasing stable, well-tested code. Take a look if you want to, it's not mandatory.
+Well, that's it for now. This article will soon be expanded as we make progress in others documentations.  
+ 
+Thanks for joining us, and let's make something awesome together!
 
-And well, that's it. Thank you for any future contributions to our projects, being big and small. Whether you're fixing a typo or adding a new feature, we're excited to have you on board. Feel free to reach us if you have any questions, we'll do our best to help.
-
-\- Bruno Smith | BlockLabz Team
+\- [Bruno Smith][smith] | BlockLabz Core Team
 
 [code_of_conduct]:CODE_OF_CONDUCT.md
 [conventional_commits]:COMMIT.md
 [contributors_guide]:CONTRIBUTE.md
 [semantic_versioning]:VERSIONING.md
+[smith]:https://github.com/BearingMe
